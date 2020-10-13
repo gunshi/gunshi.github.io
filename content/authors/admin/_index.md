@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at Wayve, an autonomous driving startup employing end-to-end learning and Reinforcement Laerning.
-
-
+I am a deep learning researcher at Wayve, an autonomous driving startup employing end-to-end learning and Reinforcement Learning for [...].
+I recently graduated from a Machine Learning Research Master's at Mila.
+I was introduced to robotics during a 1.5 year research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
