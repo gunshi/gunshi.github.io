@@ -18,27 +18,57 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Deep Learning Researcher"
+  company = "Wayve"
+  company_url = "https://wayve.ai/"
+  location = "London"
+  date_start = "2020-07-13"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Analysing
   * Modelling
   * Deploying
   """
 
+#[[experience]]
+#  title = "Master's Student in Machine Learning"
+#  company = "Montreal Institute of Learning Algorithms"
+#  company_url = "https://mila.quebec/en/"
+#  location = "Montreal"
+#  date_start = "2018-09-05"
+#  date_end = "2020-09-01"
+#  description = """Worked on Continual Learning and Autonomous Driving research problems"""
+
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Graduate Research Assistant"
+  company = "Robotics Research Center, IIITH"
+  company_url = "https://robotics.iiit.ac.in/"
+  location = "Hyderabad"
+  date_start = "2017-02-01"
+  date_end = "2018-04-30"
+  description = """Some of the things that I worked on here include:
+  * Developed a flexible Multi Robot SLAM framework
+  * Published "View-Invariant Intersection Recognition from Videos using Deep Network Ensembles"
+  * Explored generative models for localisation and deep reinforcement learning for video/image sequence generation"""
+
+[[experience]]
+  title = "Software Developer"
+  company = "Microsoft"
+  company_url = "https://www.microsoft.com/en-in/"
+  location = "Hyderabad"
+  date_start = "2016-06-01"
+  date_end = "2017-02-01"
+  description = """"""
+
+[[experience]]
+  title = "Research Intern "
+  company = "IIIT Delhi"
+  company_url = "https://www.iiitd.ac.in/"
+  location = "Delhi"
+  date_start = "2015-10-01"
+  date_end = "2015-12-01"
+  description = """Implemented "3D surface reconstruction from Unorganised planar cross sections" in C++"""
+
 
 +++
