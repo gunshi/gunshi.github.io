@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Deep Learning Researcher, Wayve
+role: Deep Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Montreal Institute of Learning Algorithms (Mila)
-  url: ""
+- name: Wayve
+  url: "https://wayve.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include meta-learning, bayesian and continual deep learning, robotics.
@@ -47,6 +47,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gunshi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/gunshi-gupta/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at Wayve, an autonomous driving startup employing end-to-end learning and Reinforcement Learning for [...].
-I recently graduated from a Machine Learning Research Master's at Mila.
+I am a deep learning researcher at Wayve, an autonomous driving startup employing end-to-end learning and Reinforcement Learning for [...]. I recently graduated from a Machine Learning Research Master's at Mila.
+
 I was introduced to robotics during a 1.5 year research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
