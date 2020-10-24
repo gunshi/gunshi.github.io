@@ -18,7 +18,7 @@ organizations:
   url: "https://wayve.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include meta-learning, bayesian and continual deep learning, robotics.
+bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
 
 interests:
 - Artificial Intelligence

@@ -48,7 +48,7 @@ url_video: 'https://www.youtube.com/watch?v=HzewyVu8LaY'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'A pictoral depiction of the La-MAML algorithm'
   focal_point: ""
   preview_only: false
 
@@ -71,10 +71,4 @@ projects: []
 {{% alert note %}}
 Click the *Cite* button above to view the bibtex.
 {{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
