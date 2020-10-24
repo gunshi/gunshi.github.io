@@ -4,6 +4,9 @@ authors:
 - admin
 - Karmesh Yadav
 - Liam Paull
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2020-10-01T00:00:00Z"
 doi: ""
 
@@ -17,20 +20,20 @@ publishDate: "2020-10-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Information Processing Systems 2020*
+publication: In *Neural Information Processing Systems 2020 (Oral)*
 publication_short: In *Neurips*
 
-abstract: The continual learning problem involves training models with limited capacityto perform well on a set of an unknown number of sequentially arriving tasks.While meta-learning shows great potential for reducing interference between oldand new tasks, the current training procedures tend to be either slow or offline,and sensitive to many hyper-parameters.  In this work, we proposeLook-aheadMAML (La-MAML), a fast optimisation-based meta-learning algorithm foronline-continual learning, aided by a small episodic memory. Our proposed modulationof per-parameter learning rates in our meta-learning update allows us to drawconnections to prior work onhypergradientsandmeta-descent. This provides amore flexible and efficient way to mitigatecatastrophic forgettingcompared toconventionalprior-basedmethods.La-MAMLachieves performance superior toother replay-based, prior-based and meta-learning based approaches for continuallearning on real-world visual classification benchmarks.
+abstract: <div style="text-align: justify"> The continual learning problem involves training models with limited capacity to perform well on a set of an unknown number of sequentially arriving tasks. While meta-learning shows great potential for reducing interference between old and new tasks, the current training procedures tend to be either slow or offline, and sensitive to many hyper-parameters. In this work, we propose Look-ahead MAML (La-MAML), a fast optimisation-based meta-learning algorithm for online-continual learning, aided by a small episodic memory. Our proposed modulation of per-parameter learning rates in our meta-learning update allows us to draw connections to prior work on hypergradients and meta-descent. This provides a more flexible and efficient way to mitigate catastrophic forgetting compared to conventional prior-based methods.La-MAML achieves performance superior to other replay-based, prior-based and meta-learning based approaches for continual learning on real-world visual classification benchmarks. </div>
 # Summary. An optional shortened abstract.
-summary: This work develops a gradient-based meta-learning algorithm for efficient, online continual learning, that is robust and scalable to real-world visual benchmarks.
+summary: In this work we develop a gradient-based meta-learning algorithm for efficient, online continual learning, that is robust and scalable to real-world visual benchmarks.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Oral
+  url: 
 url_pdf: https://arxiv.org/abs/2007.13904.pdf
 url_code: 'https://github.com/montrealrobotics/La-MAML'
 #url_dataset: '#'
