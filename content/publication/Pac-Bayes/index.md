@@ -24,7 +24,7 @@ publication_short: ""
 
 abstract: Neural  Network  based  controllers  hold  enormous  potential  to  learncomplex, high-dimensional functions. However, they are prone to overfitting andunwarranted extrapolations. PAC Bayes is a generalized framework which is moreresistant to overfitting and that yields performance bounds that hold with arbitrar-ily high probability even on the unjustified extrapolations.  However, optimizingto learn such a function and a bound is intractable for complex tasks. In this work,we propose a method to simultaneously learn such a function and estimate perfor-mance bounds that scale organically to high-dimensions, non-linear environmentswithout making any explicit assumptions about the environment. We build our ap-proach on a parallel that we draw between the formulations calledELBOandPACBayeswhen the risk metric isnegative log likelihood.  Through our experimentson multiple high dimensionalMuJoColocomotion tasks, we validate the correct-ness of our theory, show its ability to generalize better, and investigate the factorsthat are important for its learning.
 # Summary. An optional shortened abstract.
-summary: In this work we develop a gradient-based meta-learning algorithm for efficient, online continual learning, that is robust and scalable to real-world visual benchmarks.
+summary: This work proposes to train models with imitation learning in such that they come with a PAC-bayes bound as a performance guarantee for the model. It connects the expressions for the PAC bayes bound and the ELBO of a stochastic predictive policy learnt through likelihood maximisation. The model is then trained by minimising the pac-bayes bound as the objective that also doubles as an error bound.
 
 tags:
 - Deep Learning
