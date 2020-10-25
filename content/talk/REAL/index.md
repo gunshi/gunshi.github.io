@@ -1,14 +1,14 @@
 ---
 title: Master's Thesis Talk
 event: Academic Theme Conference
-event_url: 
+event_url: https://www.youtube.com/watch?v=Ks4oN5ON8EY
 
 location: MILA
 address:
   street: 6666 St-Urbain
   city: Montreal
   region: QC
-  postcode: H2S 3H1
+  postcode: H2S3H1
   country: Canada
 
 summary: Master's Thesis Talk by Gunshi Gupta presenting "La-MAML: Look-ahead Meta Learning for Continual Learning"
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'REAL Lab'
   focal_point: Smart
 
 links:
