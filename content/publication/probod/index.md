@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic object detection: Strenghts, Weaknesses, and Opportunities"
+title: "Probabilistic Object Detection: Strenghts, Weaknesses, and Opportunities"
 authors:
 - Dhaivat Bhatt
 - Dishank Bansal

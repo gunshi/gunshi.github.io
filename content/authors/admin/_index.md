@@ -21,13 +21,15 @@ organizations:
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
 
 interests:
-- Artificial Intelligence
+- Bayesian Deep Learning
+- Continual and Online Learning
+- Learning from Demonstrations
 - Robotics
 
 education:
   courses:
   - course: Research Master's in Machine Learning
-    institution: Mila
+    institution: Montreal Institute of Learning Algorithms
     year: 2020
   - course: B.Tech in Maths and Computing (Applied Mathematics)
     institution: Delhi Technological University (DTU/DCE)
@@ -52,9 +54,9 @@ social:
   link: https://www.linkedin.com/in/gunshi-gupta/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at Wayve, a startup based in London, which is employing end-to-end learning and Reinforcement Learning for solving driving. I recently graduated from a Machine Learning Research Master's at Mila.
+Hey! I'm a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning with Reinforcement Learning to achieve autonomous driving. I recently graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on bayesian deep learning, continual learning and inverse reinforcement learning.
 
-I was introduced to robotics during a 1.5 year research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
+I was introduced to robotics during a year-long research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
