@@ -41,8 +41,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=w4UK_9kAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -52,9 +52,9 @@ social:
   link: https://www.linkedin.com/in/gunshi-gupta/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a deep learning researcher at Wayve, an autonomous driving startup employing end-to-end learning and Reinforcement Learning for [...]. I recently graduated from a Machine Learning Research Master's at Mila.
+I am a deep learning researcher at Wayve, a startup based in London, which is employing end-to-end learning and Reinforcement Learning for solving driving. I recently graduated from a Machine Learning Research Master's at Mila.
 
 I was introduced to robotics during a 1.5 year research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
