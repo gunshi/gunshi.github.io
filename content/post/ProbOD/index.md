@@ -1,15 +1,17 @@
 ---
-title: 'Graduated from MILA'
-subtitle: 'I Graduated from the Research Master's program in Machine Learning at MILA'
-summary: 'I Graduated from the Research Master's program in Machine Learning at MILA'
+title: 'Presented our Probabilistic Detection work at ICML AIAD 2020 workshop'
+subtitle: 'We presented our Probabilistic Detection work at ICML AI for Autonomous Driving (AIAD) 2020 workshop'
+summary: 'We presented our Probabilistic Detection work at ICML AI for Autonomous Driving (AIAD) 2020 workshop'
 authors:
+- Dhaivat Bhatt
+- Dishank Bansal
 - admin
 tags:
-- Academia
+- Papers
 categories:
 - News
-date: "2020-09-01T00:00:00Z"
-lastmod: "2020-09-01T00:00:00Z"
+date: "2020-07-17T00:00:00Z"
+lastmod: "2020-07-17T00:00:00Z"
 featured: false
 draft: false
 
@@ -19,7 +21,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**MILA**](https://mila.quebec/en/)'
+  caption: 'Image credit: [**ICML**](https://icml.cc/)'
   focal_point: "Smart"
   preview_only: false
 
