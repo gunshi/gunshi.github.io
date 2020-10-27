@@ -10,12 +10,12 @@ summary: "Upcoming Talk on End-to-End Autonomous Driving"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-07-21T15:00:00Z"
-date_end: "2020-07-21T16:00:00Z"
+date: "2020-10-07T15:00:00Z"
+date_end: "2020-10-07T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-07-21T00:00:00Z"
+publishDate: "2020-10-25T00:00:00Z"
 
 authors: []
 tags: []
@@ -24,14 +24,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'REAL Lab'
+  caption: ''
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/MontrealRobots
+  url: https://twitter.com/OxWoCS
 url_code: ""
 url_pdf: ""
 url_slides: ""
