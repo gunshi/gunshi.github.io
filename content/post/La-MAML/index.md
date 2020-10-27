@@ -29,6 +29,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["La-MAML"]` references `content/publication/La-MAML/index.md
+projects: ["La-MAML"]
 ---
 Our Paper was also previously accepted at the [**4th Lifelong Learning Workshop at ICML 2020**](https://lifelongml.github.io/). [Link](https://openreview.net/forum?id=G_N9PeXIC-8)
