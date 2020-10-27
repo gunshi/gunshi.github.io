@@ -1,7 +1,7 @@
 ---
-title: 'Our NeurIPS paper, La-MAML was accepted to Oral'
-subtitle: 'Our NeurIPS 2020 paper, Look-Ahead Meta Learning for Continual Learning was accepted to Oral'
-summary: 'Our NeurIPS 2020 paper, Look-Ahead Meta Learning for Continual Learning was accepted to Oral'
+title: 'Our paper, La-MAML was accepted for Oral Presentation at NeurIPS 2020'
+subtitle: 'Our paper, Look-Ahead Meta Learning for Continual Learning was accepted for Oral Presentation (top 1% of submitted works) at NeurIPS 2020'
+summary: 'Our paper, Look-Ahead Meta Learning for Continual Learning was accepted for Oral Presentation (top 1% of submitted works) at NeurIPS 2020'
 authors:
 - admin
 - Karmesh Yadav
@@ -29,6 +29,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["La-MAML"]` references `content/publication/La-MAML/index.md`
+projects: ["La-MAML"]` references `content/publication/La-MAML/index.md
 ---
 Our Paper was also previously accepted at the [**4th Lifelong Learning Workshop at ICML 2020**](https://lifelongml.github.io/). [Link](https://openreview.net/forum?id=G_N9PeXIC-8)
