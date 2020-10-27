@@ -1,5 +1,5 @@
 ---
-title: "Unifying Variational Inference and PAC-Bayes forSupervised Learning that Scales"
+title: "Unifying Variational Inference and PAC-Bayes for Supervised Learning that Scales"
 authors:
 - Sanjay Thakur
 - Herke Van Hoof

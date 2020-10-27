@@ -27,5 +27,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-Description of the project
-
+The aim of this project was to investigate whether training a Bayesian Neural Network/Neural Network ensemble using Stein Variational Gradient Descent (instead of Bayes By Backprop or MC-Dropout) could lead to a more expressive and diverse ensemble, which more accurately reflects (or atleast underestimates to a relatively lesser extent) the uncertainty of the model. More details coming soon!
