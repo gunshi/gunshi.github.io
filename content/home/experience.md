@@ -25,10 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-13"
   date_end = ""
   description = """
-  Responsibilities include:
-  * Analysing
-  * Modelling
-  * Deploying
+  I am part of the policy learning team that focuses on exploring algorithms that can learn in robust and sample-efficient manner aided by expert demonstrations.
   """
 
 #[[experience]]
@@ -47,10 +44,9 @@ date_format = "Jan 2006"
   location = "Hyderabad"
   date_start = "2017-02-01"
   date_end = "2018-04-30"
-  description = """Some of the things that I worked on here include:
-  * Developed a flexible Multi Robot SLAM framework
-  * Published "View-Invariant Intersection Recognition from Videos using Deep Network Ensembles"
-  * Explored generative models for localisation and deep reinforcement learning for video/image sequence generation"""
+  description = """Here I:
+  * Developed a Multi Robot Visual SLAM framework for the Center for Artificial Intelligence and Robotics (CAIR, India) that was tested using the Husky UGV platform 
+  * Published "View-Invariant Intersection Recognition from Videos using Deep Network Ensembles" at IROS 2018"""
 
 [[experience]]
   title = "Software Developer"
@@ -59,16 +55,8 @@ date_format = "Jan 2006"
   location = "Hyderabad"
   date_start = "2016-06-01"
   date_end = "2017-02-01"
-  description = """"""
-
-[[experience]]
-  title = "Research Intern "
-  company = "IIIT Delhi"
-  company_url = "https://www.iiitd.ac.in/"
-  location = "Delhi"
-  date_start = "2015-10-01"
-  date_end = "2015-12-01"
-  description = """Implemented "3D surface reconstruction from Unorganised planar cross sections" in C++"""
-
+  description = """
+  * Built prediction and summarisation modules for employee performance feedback using deep learning and NLP
+  * Organised workshops on 'Machine Learning Fundamentals' for Microsoft employees."""
 
 +++
