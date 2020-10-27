@@ -1,7 +1,7 @@
 ---
-title: 'Graduated from MILA'
-subtitle: 'I Graduated from the Research Master's program in Machine Learning at MILA'
-summary: 'I Graduated from the Research Master's program in Machine Learning at MILA'
+title: 'I Graduated from MILA'
+subtitle: "I Graduated from the Research Master's program in Machine Learning at MILA"
+summary: "I Graduated from the Research Master's program in Machine Learning at MILA"
 authors:
 - admin
 tags:
