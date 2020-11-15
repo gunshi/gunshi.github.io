@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   location = "Hyderabad"
   date_start = "2016-01-10"
   date_end = "2016-03-01"
-  description = """
+  description = ""
 
 [[experience]]
   title = "Software Developer Intern"
