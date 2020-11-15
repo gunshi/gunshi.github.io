@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   location = "Hyderabad"
   date_start = "2016-01-10"
   date_end = "2016-03-01"
-  description = ""
+  description = "Developed a camera-based tracking system for gestures and actions to replace Lidar for interactive gameplay-based primary-school education platform."
 
 [[experience]]
   title = "Software Developer Intern"
@@ -84,6 +84,6 @@ date_format = "Jan 2006"
   location = "Hyderabad"
   date_start = "2013-10-01"
   date_end = "2013-12-01"
-  description = ""
+  description = "Automated the process that takes in a client uploaded image to be printed on tshirts, and provides the different color stencils for screen-printing"
 
 +++
