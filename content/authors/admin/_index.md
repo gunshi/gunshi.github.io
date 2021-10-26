@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
 
 interests:
-- Bayesian Deep Learning
 - Continual and Online Learning
 - Learning from Demonstrations
-- Robotics
+- Policy Learning for Robotics
+- Meta Learning
 
 education:
   courses:
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Hey! I'm a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning with Reinforcement Learning to achieve autonomous driving. I recently graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on bayesian deep learning, continual learning and inverse reinforcement learning.
+Hey! I'm a first year Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Dr. Rowan Mcallister and Dr. Aidrien Gaidon. Prior to joining, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Last year I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of bayesian deep learning, continual learning and inverse reinforcement learning.
 
 I was introduced to robotics during a year-long research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
 
