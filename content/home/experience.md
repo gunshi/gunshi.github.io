@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://wayve.ai/"
   location = "London"
   date_start = "2020-07-13"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """
   I am part of the policy learning team that focuses on exploring algorithms that can learn in robust and sample-efficient manner aided by expert demonstrations.
   """
