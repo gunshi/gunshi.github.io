@@ -14,8 +14,14 @@ role: Deep Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Wayve
+- name: University of Oxford
+  url: "https://www.ox.ac.uk"
+- name: OATML
+  url: "https://oatml.cs.ox.ac.uk"
+- name: Wayve 
   url: "https://wayve.ai/"
+- name: MILA 
+  url: "hhttps://mila.quebec/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
