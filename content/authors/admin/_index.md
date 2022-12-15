@@ -37,7 +37,7 @@ education:
   - course: D.Phil Machine Learning (AIMS CDT)
     institution: University of Oxford
     year: 2024 (expected)
-- course: Research Master's in Machine Learning
+  - course: Research Master's in Machine Learning
     institution: Montreal Institute of Learning Algorithms
     year: 2020
   - course: B.Tech in Maths and Computing (Applied Mathematics)
