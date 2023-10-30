@@ -87,13 +87,4 @@ date_format = "Jan 2006"
   date_end = "2014-08-01"
   description = ""
 
-[[experience]]
-  title = "Computer Graphics Intern"
-  company = "Freshmonk"
-  company_url = "https://www.f6s.com/freshmonk1"
-  location = "Hyderabad"
-  date_start = "2013-10-01"
-  date_end = "2013-12-01"
-  description = "Automated the process that takes in a client uploaded image to be printed on tshirts, and provides the different color stencils for screen-printing"
-
 +++
