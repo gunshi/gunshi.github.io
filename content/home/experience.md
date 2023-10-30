@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   date_start = "2023-04-01"
   date_end = "2023-07-01"
   description = """
-  I contributed to a team submission to NeurIPS titled "WHAM: World and Human Action Modelling in a Modern Xbox Game" exploring a VQGAN-transformer based world-and-action model trained on 3 years of gameplay trajectories in a high-fidelity multi-player game.
+  1. I contributed to a team submission to NeurIPS titled "WHAM: World and Human Action Modelling in a Modern Xbox Game" exploring a VQGAN-transformer based world-and-action model trained on 3 years of gameplay trajectories in a high-fidelity multi-player game. 2. Develop an evaluation suite for mechanistic interpretability of transformer representations to track emergence of game-relevant concepts like locations of adversaries, health resources of the player and so on.
   """
 
 [[experience]]
