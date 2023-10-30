@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Deep Learning Intern (RL/IL)"
+  company = "Microsoft Research"
+  location = "Cambridge"
+  date_start = "2023-04-01"
+  date_end = "2023-07-01"
+  description = """
+  I contributed to a team submission to NeurIPS titled "WHAM: World and Human Action Modelling in a Modern Xbox Game" exploring a VQGAN-transformer based world-and-action model trained on 3 years of gameplay trajectories in a high-fidelity multi-player game.
+  """
+
+[[experience]]
   title = "Deep Learning Researcher"
   company = "Wayve"
   company_url = "https://wayve.ai/"
