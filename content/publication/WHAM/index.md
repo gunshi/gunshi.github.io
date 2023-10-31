@@ -25,13 +25,13 @@ publication_types: ["3"]
 
 # abstract: The continual learning problem involves training models with limited capacity to perform well on a set of an unknown number of sequentially arriving tasks. While meta-learning shows great potential for reducing interference between old and new tasks, the current training procedures tend to be either slow or offline, and sensitive to many hyper-parameters. In this work, we propose Look-ahead MAML (La-MAML), a fast optimisation-based meta-learning algorithm for online-continual learning, aided by a small episodic memory. Our proposed modulation of per-parameter learning rates in our meta-learning update allows us to draw connections to prior work on hypergradients and meta-descent. This provides a more flexible and efficient way to mitigate catastrophic forgetting compared to conventional prior-based methods.La-MAML achieves performance superior to other replay-based, prior-based and meta-learning based approaches for continual learning on real-world visual classification benchmarks.
 # # Summary. An optional shortened abstract.
-# summary: In this work we develop a gradient-based meta-learning algorithm for efficient, online continual learning, that is robust and scalable to real-world visual benchmarks.
+summary: In this work we explore a VQGAN-transfomer based world-and-action model trained on several years of gameplay data in a team based game with complex goals requiring adversarial play and map navigation.
 
 # tags:
 # - Meta Learning
 # - Deep Learning
 
-# featured: true
+featured: true
 
 # links:
 # - name: Oral
