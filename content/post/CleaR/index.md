@@ -9,7 +9,7 @@ summary: 'Our paper on Active Sampling to mitigate Causal Confusion was accepted
 # - Papers
 # categories:
 # - News
-# date: "2020-09-25T00:00:00Z"
+date: "2023-11-1T00:00:00Z"
 # lastmod: "2020-09-25T00:00:00Z"
 featured: true
 # draft: false
