@@ -1,9 +1,6 @@
 ---
 title: 'Our paper on Active Sampling to mitigate Causal Confusion was accepted for Presentation at Clear 2023'
 summary: 'Our paper on Active Sampling to mitigate Causal Confusion was accepted for Presentation at Clear 2023.'
-# authors:
-# - admin
-# - Karmesh Yadav
 tags:
 - Papers
 categories:
@@ -17,4 +14,4 @@ featured: true
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects: ["La-MAML"]
-
+---
