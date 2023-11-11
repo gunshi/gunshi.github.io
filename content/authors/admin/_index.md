@@ -85,7 +85,7 @@ Hey! I'm a second year Machine Learning D.phil student at the OATML group at Uni
 
 My current interests and projects revolve around leveraging advances in visual diffusion modeling for robotics. Some of the topics I have done research on over the previous year are: Mechanistic interpretability in transformer-based world models, tokenised visual world models, Causally-correct policy learning and uncertainty-constrained RLHF.
 
-Prior to joining, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Last year I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of bayesian deep learning, continual learning and inverse reinforcement learning. I'm also an ED&I Fellow with the MPLS department at the University of Oxford in 2022-2023 cohort.
+Prior to starting my Ph.D, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Before that I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of bayesian deep learning, continual learning and inverse reinforcement learning. I was also an ED&I Fellow with the MPLS department at the University of Oxford in 2022-2023 cohort.
 
 I was introduced to robotics during a year-long research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
 
