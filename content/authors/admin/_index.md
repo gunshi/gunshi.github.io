@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Hey! I'm a second year Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Dr. Rowan Mcallister and Dr. Adrien Gaidon. 
+Hey! I'mstarting my third year as a Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Prof. Tim Rudner and Dr. Adrien Gaidon. 
 
 My current interests and projects revolve around leveraging advances in visual diffusion modeling for robotics. Some of the topics I have done research on over the previous year are: Mechanistic interpretability in transformer-based world models, tokenised visual world models, Causally-correct policy learning and uncertainty-constrained RLHF.
 
