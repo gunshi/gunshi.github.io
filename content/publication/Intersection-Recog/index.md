@@ -66,8 +66,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to view the bibtex.
-{{% /alert %}}
-

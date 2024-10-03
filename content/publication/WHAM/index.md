@@ -66,7 +66,3 @@ summary: In this work we explore a VQGAN-transfomer based world-and-action model
 #slides: example
 ---
 
-<!-- {{% alert note %}}
-Click the *Cite* button above to view the bibtex.
-{{% /alert %}}
- -->
