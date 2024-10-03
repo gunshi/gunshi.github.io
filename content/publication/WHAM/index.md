@@ -1,13 +1,11 @@
 ---
 title: "WHAM: World and Human Action Modelling in a Modern Xbox Game"
-# authors:
-# - admin
-# - Karmesh Yadav
-# - Liam Paull
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+authors:
+- MSR Gaming Intelligence Team
+
 date: "2023-11-1T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
+
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +29,7 @@ summary: In this work we explore a VQGAN-transfomer based world-and-action model
 # - Meta Learning
 # - Deep Learning
 
-featured: true
+# featured: true
 
 # links:
 # - name: Oral
