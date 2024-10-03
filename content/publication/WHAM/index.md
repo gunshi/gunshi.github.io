@@ -3,8 +3,8 @@ title: "WHAM: World and Human Action Modelling in a Modern Xbox Game"
 authors:
 - MSR Gaming Intelligence Team
 
-date: "2023-11-1T00:00:00Z"
-publishDate: "2020-09-01T00:00:00Z"
+date: "2023-11-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 # doi: ""
 
