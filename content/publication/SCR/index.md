@@ -27,8 +27,8 @@ publication_types: ["1"]
 featured: true
 
 # Publication name and optional abbreviated publication name.
-publication: In *NeurIPS 2024* spotlight
-publication_short: In *NeurIPS*
+publication:  *NeurIPS 2024* spotlight
+publication_short: *NeurIPS 2024 spotlight*
 
 abstract: Fine-tuning vision-language foundation models has emerged as a powerful approach to leveraging internet-scale data for generalization in downstream applications. A particularly promising source of representations already used in supervised learning can be derived from pretrained diffusion models. These representations have been shown to capture both high-level semantic information about a scene and low-level spatial information. However, this potential has not yet been realized for control-based robotics tasks, which often feature vision-based tasks with language instructions. This paper presents \ouralgolong, which uses pretrained text-to-image diffusion models as a source of vision-language representations for downstream control policies. We show that these representations are competitive on a variety of challenging simulated control benchmarks and demonstrate strong performance on tasks that require generalization to unseen objects at test time. Crucially, we show that they enable generalization on a challenging open-vocabulary navigation benchmark on which it outperforms all other pretrained approaches. Finally, to examine their robustness, we deconstruct diffusion model representations by ablating different design choices involved in extracting representations from diffusion models and presenting insights into their failure modes.
 
