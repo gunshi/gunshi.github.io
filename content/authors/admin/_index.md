@@ -83,7 +83,14 @@ user_groups:
 
 Hey! I'm in my final year as a Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Prof. Tim Rudner and Dr. Adrien Gaidon. 
 
-I'm currently working on designing methods and architectures to enable robots to learn to do very long horizon tasks through memory augmentation. Some of the topics I have done research on over the previous year are: leveraging advances in visual diffusion modeling for robotics, Mechanistic interpretability in transformer-based world models, tokenised visual world models, and causally-correct policy learning from imbalanced data. I also collaborate closely with researchers from Toyota Research on topics related to robot learning.
+I'm currently working on designing methods, architectures and benchmarks to enable embodied agents that can do very long horizon tasks by augmenting them with memory. 
+Some of the topics I have done research on over the previous two years are: 
+- Leveraging advances in visual diffusion modeling for robotics
+- Mechanistic interpretability in transformer-based world models
+- Training tokenised visual world models, and
+- Causally-correct policy learning from imbalanced data.
+
+I also collaborate closely with researchers from Toyota Research on topics related to robot learning.
 
 Prior to starting my Ph.D, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Before that I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of bayesian deep learning, continual learning and inverse reinforcement learning. I was also an ED&I Fellow with the MPLS department at the University of Oxford in 2022-2023 cohort.
 
