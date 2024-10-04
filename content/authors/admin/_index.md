@@ -30,6 +30,7 @@ interests:
 - Diffusion modeling
 - Policy Learning for Robotics
 - Continual and Online Learning, Meta Learning
+- Memory-augmented models
 
 
 
