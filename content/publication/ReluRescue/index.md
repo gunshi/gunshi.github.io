@@ -23,7 +23,6 @@ publishDate: "2024-06-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-featured: true
 
 # Publication name and optional abbreviated publication name.
 publication:  Accepted *ICML 2024* 
