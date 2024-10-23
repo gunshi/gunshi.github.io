@@ -84,7 +84,7 @@ user_groups:
 
 Hey! I'm in my final year as a Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Prof. Tim Rudner and Dr. Adrien Gaidon. 
 
-I'm currently working on designing methods, architectures and benchmarks to enable embodied agents that can do very long horizon tasks by augmenting them with memory. 
+I'm currently working on designing methods, architectures and benchmarks to enable embodied agents to learn to do long horizon tasks by creating and accessing episodic memories. I am specifically focusing on transformer-based agents trained through large-scale RL.
 Some of the topics I have done research on over the previous two years are: 
 - Leveraging advances in visual diffusion modeling for robotics
 - Mechanistic interpretability in transformer-based world models
