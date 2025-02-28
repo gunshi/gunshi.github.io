@@ -70,22 +70,22 @@ date_format = "Jan 2006"
   * Built prediction and summarisation modules for employee performance feedback using deep learning and NLP
   * Organised workshops on 'Machine Learning Fundamentals' for Microsoft employees."""
 
-[[experience]]
+<!-- [[experience]]
   title = "Computer Vision Intern"
   company = "Nayi Disha Studios"
   company_url = "http://nayidishastudios.com/"
   location = "Hyderabad"
   date_start = "2016-01-10"
   date_end = "2016-03-01"
-  description = "Developed a camera-based tracking system for gestures and actions to replace Lidar for interactive gameplay-based primary-school education platform."
+  description = "Developed a camera-based tracking system for gestures and actions to replace Lidar for interactive gameplay-based primary-school education platform." -->
 
-[[experience]]
+<!-- [[experience]]
   title = "Software Developer Intern"
   company = "Microsoft"
   company_url = "https://www.microsoft.com/en-in/"
   location = "Hyderabad"
   date_start = "2014-06-01"
   date_end = "2014-08-01"
-  description = ""
+  description = "" -->
 
 +++
