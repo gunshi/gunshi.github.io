@@ -38,7 +38,7 @@ tags:
 - Computer Vision
 - Bayesian Deep Learning
 
-featured: false
+# featured: false
 
 url_pdf: 'https://drive.google.com/file/d/1aEP2j1O_mpuORYnThpMuGlR0lcRWu3f5/view'
 #url_code: ''

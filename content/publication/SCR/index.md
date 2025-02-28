@@ -24,7 +24,7 @@ publishDate: "2024-09-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-featured: true
+# featured: tfalserue
 
 # Publication name and optional abbreviated publication name.
 publication:  Accepted *NeurIPS 2024* spotlight

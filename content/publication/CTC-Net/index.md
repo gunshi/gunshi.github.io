@@ -34,7 +34,7 @@ tags:
 - Deep Learning
 - Computer Vision
 
-featured: false
+# featured: false
 
 url_pdf: https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Iyer_Geometric_Consistency_for_CVPR_2018_paper.pdf
 url_code: 'https://github.com/krrish94/CTCNet-release'

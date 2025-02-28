@@ -3,8 +3,8 @@ title: "WHAM: World and Human Action Modelling in a Modern Xbox Game"
 authors:
 - MSR Gaming Intelligence Team
 
-date: "2023-11-01T00:00:00Z"
-publishDate: "2023-11-01T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
+publishDate: "2025-02-01T00:00:00Z"
 
 # doi: ""
 
@@ -18,12 +18,15 @@ publishDate: "2023-11-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Neural Information Processing Systems 2020 (Oral)*
-# publication_short: In *Neurips*
+publication: Nature 2025
+publication_short: In Nature
 
-# abstract: The continual learning problem involves training models with limited capacity to perform well on a set of an unknown number of sequentially arriving tasks. While meta-learning shows great potential for reducing interference between old and new tasks, the current training procedures tend to be either slow or offline, and sensitive to many hyper-parameters. In this work, we propose Look-ahead MAML (La-MAML), a fast optimisation-based meta-learning algorithm for online-continual learning, aided by a small episodic memory. Our proposed modulation of per-parameter learning rates in our meta-learning update allows us to draw connections to prior work on hypergradients and meta-descent. This provides a more flexible and efficient way to mitigate catastrophic forgetting compared to conventional prior-based methods.La-MAML achieves performance superior to other replay-based, prior-based and meta-learning based approaches for continual learning on real-world visual classification benchmarks.
-# # Summary. An optional shortened abstract.
+abstract: Generative artificial intelligence (AI) has the potential to transform creative industries through supporting human creative ideation—the generation of new ideas. However, limitations in model capabilities raise key challenges in integrating these technologies more fully into creative practices. Iterative tweaking and divergent thinking remain key to enabling creativity support using technology, yet these practices are insufficiently supported by state-of-the-art generative AI models. Using game development as a lens, we demonstrate that we can make use of an understanding of user needs to drive the development and evaluation of generative AI models in a way that aligns with these creative practices. Concretely, we introduce a state-of-the-art generative model, the World and Human Action Model (WHAM), and show that it can generate consistent and diverse gameplay sequences and persist user modifications—three capabilities that we identify as being critical for this alignment. In contrast to previous approaches to creativity support tools that required manually defining or extracting structure for relatively narrow domains, generative AI models can learn relevant structure from available data, opening the potential for a much broader range of applications.
+
+# Summary. An optional shortened abstract.
+
 summary: In this work we explore a VQGAN-transfomer based world-and-action model trained on several years of gameplay data in a team based game with complex goals requiring adversarial play and map navigation.
+
 
 # tags:
 # - Meta Learning

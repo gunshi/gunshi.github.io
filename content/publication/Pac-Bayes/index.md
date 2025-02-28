@@ -29,7 +29,7 @@ summary: This work proposes to train models with imitation learning in such that
 tags:
 - Deep Learning
 
-featured: False
+# featured: False
 
 url_pdf: https://arxiv.org/pdf/1910.10367.pdf
 url_code: 'https://github.com/sanjaythakur/Unifying-VI-and-PAC-Bayes-for-Learning-that-Scales'

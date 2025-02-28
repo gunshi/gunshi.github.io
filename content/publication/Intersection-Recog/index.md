@@ -33,7 +33,7 @@ tags:
 - Deep Learning
 - Computer Vision
 
-featured: false
+# featured: false
 
 url_pdf: https://ieeexplore.ieee.org/document/8594449
 #url_code: ''

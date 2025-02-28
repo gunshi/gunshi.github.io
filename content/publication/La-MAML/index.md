@@ -31,7 +31,7 @@ tags:
 - Meta Learning
 - Deep Learning
 
-featured: true
+# featured: true
 
 links:
 - name: Oral
