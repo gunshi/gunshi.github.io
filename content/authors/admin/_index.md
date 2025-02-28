@@ -82,19 +82,17 @@ user_groups:
 - Visitors
 ---
 
-Hey! I'm in my final year as a Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Prof. Yarin Gal, Prof. Tim Rudner and Dr. Adrien Gaidon. 
+Hey! I'm in my final year as a Machine Learning D.phil student at the OATML group at University of Oxford. I'm co-supervised by Yarin Gal and Tim Rudner.
 
 I'm currently working on designing methods, architectures and benchmarks to enable embodied agents to learn to do long horizon tasks by creating and accessing episodic memories. I am specifically focusing on transformer-based agents trained through large-scale RL.
-Some of the topics I have done research on over the previous two years are: 
+Some of the topics I have done research on over the previous three years are: 
 - Leveraging advances in visual diffusion modeling for robotics
 - Mechanistic interpretability in transformer-based world models
 - Training tokenised visual world models, and
 - Causally-correct policy learning from imbalanced data.
 
-I also collaborate closely with researchers from Toyota Research on topics related to robot learning.
+I also collaborated closely with researchers from Toyota Research (Adrien Gaidon and Rowan McAllister) on topics related to causal robot learning.
 
-Prior to starting my Ph.D, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Before that I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of bayesian deep learning, continual learning and inverse reinforcement learning. I was also an ED&I Fellow with the MPLS department at the University of Oxford in 2022-2023 cohort.
-
-I was introduced to robotics during a year-long research internship at IIIT, (Hyderabad, India 2017-2018), where I worked on Multi-Robot SLAM and view-invariant recognition for place recognition and relocalisation.
+Prior to starting my Ph.D, I had been working as a deep learning researcher at Wayve, a startup based in London that is employing end-to-end deep learning to achieve autonomous driving. Before that I graduated from a Machine Learning Research Master’s at Mila (Sept 2020) where I primarily did research on the topics of meta and continual learning and inverse reinforcement learning. I was also an ED&I Fellow with the MPLS department at the University of Oxford in 2022-2023 cohort.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
