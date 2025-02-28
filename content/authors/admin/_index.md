@@ -27,7 +27,7 @@ organizations:
 bio: My research interests include Meta-Learning, Bayesian and Continual Deep Learning, Robotics.
 
 interests:
-- Policy Learning for Robotics, Reinforcement Learning
+- Policy Learning, Reinforcement Learning
 - Diffusion modeling
 - Continual Learning, Meta Learning
 - Memory-augmented models
