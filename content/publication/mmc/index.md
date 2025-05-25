@@ -31,7 +31,7 @@ abstract: Video Large Language Models (Video-LLMs) excel at understanding videos
 
 
 tags:
-- Video-QA
+- VideoQA
 - VLM
 - Memory
 
