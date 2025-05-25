@@ -34,6 +34,6 @@ abstract: To enable embodied agents to assist and operate effectively over exten
 tags:
 - Transformers
 - RL
-- Mmeory
+- Memory
 
 ---
