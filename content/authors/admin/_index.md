@@ -89,8 +89,8 @@ I'm currently working on designing methods, architectures and benchmarks to enab
 Some of the topics I have done research on over the previous three years are: 
 - Leveraging advances in visual diffusion modeling for robotics
 - Mechanistic interpretability in transformer-based world models
-- Training tokenised visual world models, and
-- Causally-correct policy learning from imbalanced data.
+- Training generative world models for video games and robotics, and
+- Causally-correct, sample-efficient learning from imbalanced data.
 
 I also collaborated closely with researchers from Toyota Research (Adrien Gaidon and Rowan McAllister) on topics related to causal robot learning.
 
